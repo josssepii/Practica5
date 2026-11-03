@@ -80,5 +80,10 @@ public class Main {
             suma = suma + (i * i);
         }
         System.out.println("La suma es: " + suma);
+        Scanner sc = new Scanner(System.in);
+        int opcion = 0 ;
+        do {
+
+        }while (opcion!=5);
     }
 }
